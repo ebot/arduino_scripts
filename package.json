@@ -1,0 +1,16 @@
+{
+  "name": "arduino_scripts",
+  "version": "0.1.0",
+  "description": "Some scripts for messing around with and Arduino board.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Ed Botzum",
+  "license": "BSD",
+  "dependencies": {
+    "serialport": "~1.0.8",
+    "prompt": "~0.2.9",
+  }
+}
